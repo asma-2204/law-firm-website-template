@@ -1,1 +1,1 @@
-
+document.addEventListener('DOMContentLoaded',()=>{const m=document.querySelector('.menu'),n=document.querySelector('nav');if(m&&n)m.onclick=()=>n.classList.toggle('open');document.querySelectorAll('.year').forEach(e=>e.textContent=new Date().getFullYear())});function demo(e){e.preventDefault();alert('Demo form: connect your preferred form/email service before production use.');return false}
