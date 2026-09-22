@@ -1,0 +1,1 @@
+Replace hero.jpg and logo.png with the client's real assets. Add lawyer photos under images/team/.
